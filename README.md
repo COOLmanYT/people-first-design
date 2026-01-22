@@ -30,6 +30,8 @@ When I say "your creation", I mean your creation, your project, whatever it is. 
 ### 1. UX before metrics, and far before profits
 Think of your creation in the shoes of someone using it. If you use your creation and actively think that it is a well-made project, easy to use, and a 5-star rated product, then you are following this principle. Your creation cannot favour metrics and profits over your users' experience. This does not mean "UX until it impacts profits", it means that you are devoted to keeping UX ahead as long as your creation is not in the negatives. As in, you should be able to go into the negatives without switching up. You can disregard this principle if and only when you have lost a lot of money suddenly, or you are continuing to lose money over a long period of time. After you make a comeback, you must go back to being UX first. 
 
+As a wise person once said, "if you wouldn't show it to your grandma, don't do it at all". 
+
 ### 2. No dark patterns
 
 No tricks. No guilt buttons. No fake urgency. No confusing opt-outs. No scams. No random data collection for absolutely no reason. Do not promote, create or include any illegal or unethical content, such as promoting cyberbullying or allowing rule-breaking UGC to exist on your creation.

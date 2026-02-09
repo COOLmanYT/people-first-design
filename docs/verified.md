@@ -14,7 +14,7 @@ Pending | Verified 1/2 | Rejected 1/2/3 | Revoked 1/2/3 | Exempt/Custom
 - **Exempt/Custom** Please check the ID's notes for more information.
 
 | ID    | Status | Name | Creator | URL | Repo Link  | Date Added | Notes |
-|-------|------|---------|-----|----------|---------|-----------|-------|
+|-------|--------|------|---------|-----|------------|------------|-------|
+| PFD-1 | Verified 1 | COOLmanYT Website | [COOLmanYT](https://github.com/COOLmanYT) | https://coolmanyt.com | https://github.com/COOLmanYT/mycoolwebsite | 2026-01-19 | Founder of the system (so he gets a cool ID number) |
+| PFD-2 | Verified 2 | Voltus IDE Website | [tyce](https://github.com/ethical-tyce) & [COOLmanYT](https://github.com/COOLmanYT) | https://voltus-ide.vercel.app | N/A - not public | 2026-02-9 | COOLmanYT is the dev who made the website |
 
-| PFD-1 | Verified 1 | COOLmanYT Website | COOLmanYT | https://coolmanyt.com | https://github.com/COOLmanYT/mycoolwebsite | 2026-01-19 | Founder of the system (so he gets a cool ID number) |
-| PFD-2 | Verified 2 | Voltus IDE Website | tyce & COOLmanYT | https://voltus-ide.vercel.app | N/A - not public | 2026-02-9 | COOLmanYT is the dev who made the website |

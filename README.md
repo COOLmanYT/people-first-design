@@ -159,7 +159,7 @@ Be respectful. Be human.
 
 ## License
 
-This project is open-source and projected by the CC BY-SA 4.0 licence. 
+This project is open-source and protected by the CC BY-SA 4.0 licence. 
 Use it, remix it, improve it, with attribution. Just don’t use it to trick people. 
 
 Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)

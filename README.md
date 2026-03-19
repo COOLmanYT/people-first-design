@@ -159,10 +159,17 @@ Be respectful. Be human.
 
 ## License
 
-This project is open-source.
-Use it, remix it, improve it.
+This project is open-source and projected by the CC BY-SA 4.0 licence. 
+Use it, remix it, improve it, with attribution. Just don’t use it to trick people. 
 
-Just don’t use it to trick people.
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
+
+People First Design © 2026 by COOLmanYT is licensed under Creative Commons Attribution-ShareAlike 4.0 International. 
+To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.
+
+For more information about the licence see LICENCE.
+
+
 
 ---
 Built with the belief that the internet can still be a nice place. :D
